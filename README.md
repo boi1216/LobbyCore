@@ -1,0 +1,2 @@
+# LobbyCore
+PocketMine plugin 
