@@ -1,0 +1,5 @@
+name: LobbyCore
+author: boi
+api: 3.5.9
+version: 1.0beta
+main: LobbyCore\Loader
